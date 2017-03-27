@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">GuessNumber</string>
+  <string name="range">數字範圍</string>
+</resources>
